@@ -5,14 +5,14 @@ Example of a simple hello world server/client.
 
 ## Quickstart
 1. Start the server
-```sh
-$ yarn install
-$ yarn run serve
-```
+    ```sh
+    $ yarn install
+    $ yarn run serve
+    ```
 1. In another terminal window, run the client
-```sh
-$ NAME=John yarn run client
-```
+    ```sh
+    $ NAME=John yarn run client
+    ```
 
 ## License
 
